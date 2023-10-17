@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=QA+Tester+🖥️;Gamer+🎮;Coder+💻;)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=SethViloria&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sethviloria&color=blueviolet" alt="Profile views"/>
 <div align = "left">
    Lorem ipsum dolor sit amet.<br>
    Lorem ipsum dolor sit amet.<br>
