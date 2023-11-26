@@ -24,20 +24,7 @@ As I step into the next phase of my career, my sights are firmly set on merging 
   <a href="https://www.linkedin.com/in/sethbreyanneviloria/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+
 </div>
 
 <br>
-
-# Experience
-<br>
-
-# Tools
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
